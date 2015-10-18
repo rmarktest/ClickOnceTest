@@ -19,7 +19,7 @@ namespace RepzScreenshot.ViewModel
             var w1 = new PlayerSearchViewModel();
             var w2 = new ServerListViewModel();
             AddWorkspace(w1);
-            AddWorkspace(w2);
+            //AddWorkspace(w2);
 
             Application.Current.DispatcherUnhandledException += Current_DispatcherUnhandledException;
 
