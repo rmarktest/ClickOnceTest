@@ -26,7 +26,10 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/rmarktest/ClickOnceTest/master/RepzScreenshot/RepzScreenshot/publish/</InstallUrl>
-    <ApplicationRevision>1</ApplicationRevision>
+    <UpdateUrl>https://raw.githubusercontent.com/rmarktest/ClickOnceTest/master/RepzScreenshot/RepzScreenshot/publish/</UpdateUrl>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>3</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
