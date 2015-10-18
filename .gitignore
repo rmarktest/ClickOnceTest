@@ -122,7 +122,7 @@ DocProject/Help/*.hhk
 DocProject/Help/html
 
 # Click-Once directory
-publish/
+#publish/
 
 # Publish Web Output
 *.[Pp]ublish.xml
